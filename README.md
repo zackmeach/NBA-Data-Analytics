@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project utilized Data Science concepts to explore various aspects of NBA statistics using nba_api.
+This project utilizes Data Science concepts to explore various aspects of NBA statistics using nba_api.
 	
 ## Technologies
 Project is created with:
