@@ -1,9 +1,9 @@
-## Table of contents
+## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+## General Info
 This project utilizes Data Science concepts to explore various aspects of NBA statistics using [nba_api](https://github.com/swar/nba_api).
 	
 ## Technologies
