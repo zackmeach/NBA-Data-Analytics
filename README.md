@@ -21,7 +21,7 @@ $ git clone https://github.com/zackmeach/NBA-Data-Analytics
 Next, create a branch of the main code to work on:
 ```
 $ git checkout -b zack_branch
-Switched to a new branch 'test'
+Switched to a new branch 'zack_branch'
 ```
 Now that you have your own branch, you are free to make whatever changed you want to the directory without affecting the main branch. You can check your current status as follows:
 ```
